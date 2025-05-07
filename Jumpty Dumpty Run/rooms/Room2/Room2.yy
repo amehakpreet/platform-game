@@ -21,6 +21,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_731D794C","properties":[],"isDnd":false,"objectId":{"name":"obj_sandblock","path":"objects/obj_sandblock/obj_sandblock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":288.0,"y":576.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3B61A6FF","properties":[],"isDnd":false,"objectId":{"name":"obj_sandblock","path":"objects/obj_sandblock/obj_sandblock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":352.0,"y":576.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3D5B93A","properties":[],"isDnd":false,"objectId":{"name":"obj_sandblock","path":"objects/obj_sandblock/obj_sandblock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":576.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_679AF1DD","properties":[],"isDnd":false,"objectId":{"name":"obj_sandblock","path":"objects/obj_sandblock/obj_sandblock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":576.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1AEC8F2","properties":[],"isDnd":false,"objectId":{"name":"obj_character_klee","path":"objects/obj_character_klee/obj_character_klee.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":480.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Background","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2396EA82","properties":[],"isDnd":false,"objectId":{"name":"obj_background2liyue","path":"objects/obj_background2liyue/obj_background2liyue.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.35572916,"scaleY":0.35555553,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,},
@@ -35,6 +37,8 @@
     {"name":"inst_3B61A6FF","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_3D5B93A","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_2396EA82","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_679AF1DD","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_1AEC8F2","path":"rooms/Room2/Room2.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

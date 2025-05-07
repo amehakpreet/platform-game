@@ -6,7 +6,7 @@
     "name": "spr_lavablock",
     "path": "sprites/spr_lavablock/spr_lavablock.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,

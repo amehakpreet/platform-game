@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_character_klee",
+  "name": "obj_portal",
   "spriteId": {
-    "name": "spr_character_klee_right",
-    "path": "sprites/spr_character_klee_right/spr_character_klee_right.yy",
+    "name": "spr_portal",
+    "path": "sprites/spr_portal/spr_portal.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,9 +25,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_enemy_jumptydumpty","path":"objects/obj_enemy_jumptydumpty/obj_enemy_jumptydumpty.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_character_klee","path":"objects/obj_character_klee/obj_character_klee.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],

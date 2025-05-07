@@ -11,6 +11,7 @@ var jump_pressed = keyboard_check_pressed(vk_space); // var makes the variable l
 // Check if standing on ground
 is_grounded = place_meeting(x, y+2, obj_grassblock);
 
+
 // Check if touching a ladder
 is_climbing = place_meeting(x, y, obj_ladder);
 
@@ -40,5 +41,4 @@ move_and_collide(move_x, move_y, obj_grassblock);
 if (y < -200 || y > room_height+200) || x < -20 || x > room_width+20 {
 	room_restart(); // Restart room if object is outside the room	
 }
-
 

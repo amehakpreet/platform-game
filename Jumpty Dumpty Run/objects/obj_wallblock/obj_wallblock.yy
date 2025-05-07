@@ -1,12 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_waterblock",
+  "name": "obj_wallblock",
   "spriteId": {
-    "name": "spr_waterblock",
-    "path": "sprites/spr_waterblock/spr_waterblock.yy",
+    "name": "spr_wallblock",
+    "path": "sprites/spr_wallblock/spr_wallblock.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,

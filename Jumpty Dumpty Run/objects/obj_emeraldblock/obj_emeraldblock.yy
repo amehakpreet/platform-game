@@ -6,7 +6,7 @@
     "name": "spr_emeraldblock",
     "path": "sprites/spr_emeraldblock/spr_emeraldblock.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
