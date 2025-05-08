@@ -28,6 +28,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_grassblock","path":"objects/obj_grassblock/obj_grassblock.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_wallblock","path":"objects/obj_wallblock/obj_wallblock.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_wallblock2","path":"objects/obj_wallblock2/obj_wallblock2.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],

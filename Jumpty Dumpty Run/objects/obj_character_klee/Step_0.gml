@@ -9,7 +9,7 @@ var jump_pressed = keyboard_check_pressed(vk_space); // var makes the variable l
 
 // ###################### CHECK FOR COLLISIONS ######################
 // Check if standing on ground
-is_grounded = place_meeting(x, y+2, obj_grassblock);
+is_grounded = place_meeting(x, y+2, obj_sandblock);
 
 
 // Check if touching a ladder
@@ -34,8 +34,7 @@ else {
 }
 
 // ###################### ACTUALLY MOVE THE PLAYER OBJECT ######################
-move_and_collide(move_x, move_y, obj_grassblock);
-
+move_and_collide(move_x, move_y, obj_sandblock);
 
 // ###################### OUTSIDE ROOM ######################
 if (y < -200 || y > room_height+200) || x < -20 || x > room_width+20 {
