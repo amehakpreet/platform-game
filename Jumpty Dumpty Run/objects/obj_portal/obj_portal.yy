@@ -26,6 +26,8 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_character_klee","path":"objects/obj_character_klee/obj_character_klee.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_klee_sandblock","path":"objects/obj_klee_sandblock/obj_klee_sandblock.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_character_klee_amethystblock","path":"objects/obj_character_klee_amethystblock/obj_character_klee_amethystblock.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
